@@ -1,4 +1,4 @@
-package com.company;
+package com.company.rectangle;
 
 public class Rectangle {
     double width;

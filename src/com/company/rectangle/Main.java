@@ -1,4 +1,4 @@
-package com.company;
+package com.company.rectangle;
 
 import java.util.Scanner;
 
